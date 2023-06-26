@@ -3,4 +3,5 @@ FROM tomcat:9.0.37-jdk8
 # great
 # mine
 # true
+# new
 COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
